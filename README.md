@@ -79,8 +79,7 @@ The goal is to **enable scalable, reliable, and automated data processing** for 
 
 ---
 
-## 🔗 Next Steps
-- Integration with **Airflow or Databricks Jobs** for scheduled execution  
+## 🔗 Next Steps 
 - Adding **incremental processing** for near real-time updates  
 - Connecting **Gold layer tables** to BI tools like Power BI or Tableau  
 
